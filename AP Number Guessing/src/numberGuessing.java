@@ -60,6 +60,3 @@ public class numberGuessing
 
 	}
 
-// WOOOHOOOOO i added this to see if it works 
-// oooohhhhh yeah 
-// afkldajfklfkl
